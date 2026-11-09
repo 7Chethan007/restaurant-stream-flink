@@ -1,0 +1,501 @@
+name,location,cuisines,rest_type,rate,approx_cost(for two people)
+Jalsa,Banashankari,"North Indian, Mughlai, Chinese",Casual Dining,4.1/5,800
+Spice Elephant,Banashankari,"Chinese, North Indian, Thai",Casual Dining,4.1/5,800
+San Churro Cafe,Banashankari,"Cafe, Mexican, Italian","Cafe, Casual Dining",3.8/5,800
+Addhuri Udupi Bhojana,Banashankari,"South Indian, North Indian",Quick Bites,3.7/5,300
+Grand Village,Basavanagudi,"North Indian, Rajasthani",Casual Dining,3.8/5,600
+Timepass Dinner,Basavanagudi,North Indian,Casual Dining,3.8/5,600
+Rosewood International Hotel - Bar & Restaurant,Mysore Road,"North Indian, South Indian, Andhra, Chinese",Casual Dining,3.6/5,800
+Onesta,Banashankari,"Pizza, Cafe, Italian","Casual Dining, Cafe",4.6/5,600
+Penthouse Cafe,Banashankari,"Cafe, Italian, Continental",Cafe,4.0/5,700
+Smacznego,Banashankari,"Cafe, Mexican, Italian, Momos, Beverages",Cafe,4.2/5,550
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,Banashankari,Cafe,Cafe,4.1/5,500
+Cafe Shuffle,Banashankari,"Cafe, Italian, Continental",Cafe,4.2/5,600
+The Coffee Shack,Banashankari,"Cafe, Chinese, Continental, Italian",Cafe,4.2/5,500
+Caf-Eleven,Banashankari,"Cafe, Continental",Cafe,4.0/5,450
+San Churro Cafe,Banashankari,"Cafe, Mexican, Italian","Cafe, Casual Dining",3.8/5,800
+Cafe Vivacity,Banashankari,Cafe,Cafe,3.8/5,650
+Catch-up-ino,Banashankari,"Cafe, Fast Food, Continental, Chinese, Momos",Cafe,3.9/5,800
+Kirthi's Biryani,Banashankari,"Chinese, Cafe, Italian",Cafe,3.8/5,700
+T3H Cafe,Banashankari,"Cafe, Italian, American",Cafe,3.9/5,300
+360 Atoms Restaurant And Cafe,Banashankari,"Cafe, Chinese, Continental, Italian",Cafe,3.1/5,400
+The Vintage Cafe,Banashankari,"Cafe, French, North Indian",Cafe,3.0/5,400
+Woodee Pizza,Banashankari,"Cafe, Pizza, Fast Food, Beverages",Cafe,3.7/5,500
+Cafe Coffee Day,Banashankari,"Cafe, Fast Food",Cafe,3.6/5,900
+My Tea House,Banashankari,"Italian, Fast Food, Cafe, European","Quick Bites, Cafe",3.6/5,600
+Hide Out Cafe,Banashankari,Cafe,Cafe,3.7/5,300
+CAFE NOVA,Banashankari,"Cafe, Bakery",Cafe,3.2/5,600
+Coffee Tindi,Banashankari,"Cafe, South Indian","Cafe, Quick Bites",3.8/5,200
+Sea Green Cafe,Banashankari,"Cafe, Fast Food, Beverages",Cafe,3.3/5,500
+Cuppa,Banashankari,"Cafe, Fast Food",Cafe,3.3/5,550
+Srinathji's Cafe,Basavanagudi,"North Indian, Cafe, Chinese, Fast Food","Casual Dining, Cafe",3.8/5,550
+Redberrys,Basavanagudi,"Cafe, Italian",Cafe,4.0/5,600
+Foodiction,Banashankari,"North Indian, Fast Food, Chinese, Burger",Quick Bites,2.8/5,500
+Sweet Truth,Banashankari,"Bakery, Desserts",Delivery,3.9/5,500
+Ovenstory Pizza,Banashankari,Pizza,Delivery,3.9/5,750
+Faasos,Banashankari,"North Indian, Biryani, Fast Food",Quick Bites,4.2/5,500
+Behrouz Biryani,Banashankari,Biryani,Delivery,3.9/5,650
+Fast And Fresh,Banashankari,"North Indian, Chinese, Fast Food",Quick Bites,2.8/5,400
+Szechuan Dragon,Banashankari,"Chinese, Thai, Momos",Casual Dining,4.2/5,600
+Empire Restaurant,Jayanagar,"North Indian, Mughlai, South Indian, Chinese",Casual Dining,4.4/5,750
+Maruthi Davangere Benne Dosa,Banashankari,South Indian,Quick Bites,4.0/5,150
+Chaatimes,Basavanagudi,"Street Food, Fast Food",Quick Bites,3.8/5,200
+Havyaka Mess,Banashankari,South Indian,Mess,3.9/5,300
+McDonald's,Banashankari,"Burger, Fast Food",Quick Bites,3.9/5,500
+Domino's Pizza,Banashankari,"Pizza, Fast Food",Quick Bites,3.9/5,800
+Onesta,Banashankari,"Pizza, Cafe, Italian","Casual Dining, Cafe",4.6/5,600
+Hotboxit,Banashankari,"North Indian, Continental, Italian",Delivery,3.8/5,400
+Kitchen Garden,Kumaraswamy Layout,"North Indian, Chinese",Quick Bites,3.6/5,300
+Recipe,Kumaraswamy Layout,"North Indian, Chinese, Biryani, Rolls",Casual Dining,4.0/5,450
+Beijing Bites,Rajarajeshwari Nagar,"Chinese, Thai",Casual Dining,3.7/5,850
+Tasty Bytes,Kumaraswamy Layout,"North Indian, Chinese, Momos, Rolls",Quick Bites,3.1/5,300
+Petoo,Banashankari,North Indian,Quick Bites,3.7/5,450
+Shree Cool Point,Vijay Nagar,"Fast Food, Street Food, Beverages",Quick Bites,4.1/5,150
+Corner House Ice Cream,Banashankari,"Ice Cream, Desserts",Dessert Parlor,4.3/5,400
+Biryanis And More,Jayanagar,"Biryani, North Indian, Chinese, Andhra, South Indian",Casual Dining,4.0/5,750
+Roving Feast,Banashankari,"Italian, Continental, Fast Food, Chinese, Momos",Quick Bites,4.0/5,450
+FreshMenu,Banashankari,"Healthy Food, Chinese, Biryani, North Indian, Continental, Salad, American, Burger",Delivery,3.9/5,450
+Banashankari Donne Biriyani,Banashankari,"Biryani, Fast Food",Quick Bites,3.8/5,300
+Wamama,Banashankari,"Asian, Korean, Indonesian, Japanese, Chinese, Thai, Momos",Casual Dining,4.2/5,800
+Five Star Chicken,Banashankari,"Fast Food, Burger",Quick Bites,3.6/5,200
+XO Belgian Waffle,Banashankari,"Desserts, Beverages",Dessert Parlor,3.7/5,400
+Peppy Peppers,Banashankari,"Italian, North Indian, Mexican",Casual Dining,4.2/5,800
+Goa 0 Km,Kumaraswamy Layout,"Goan, Seafood, North Indian, Chinese, Biryani",Casual Dining,3.6/5,800
+Chinese Kitchen,Basavanagudi,Chinese,Quick Bites,3.8/5,150
+1947,Banashankari,"North Indian, Chinese",Casual Dining,4.0/5,850
+Cake of the Day,Banashankari,Bakery,"Bakery, Dessert Parlor",3.7/5,150
+Kabab Magic,Basavanagudi,"North Indian, Kebab, Chinese, Fast Food",Quick Bites,4.1/5,400
+Namma Brahmin's Idli,Jayanagar,South Indian,Quick Bites,3.6/5,100
+Gustoes Beer House,Banashankari,"Continental, Italian, Mexican, North Indian, Chinese, Steak",Pub,4.1/5,"1,200"
+Sugar Rush,Banashankari,"Bakery, Desserts",Bakery,3.8/5,300
+Burger King,Basavanagudi,"Burger, Fast Food, Beverages",Quick Bites,3.2/5,600
+The Good Bowl,Banashankari,"Italian, North Indian, Biryani","Takeaway, Delivery",3.6/5,500
+The Biryani Cafe,Banashankari,"Biryani, Chinese, Kebab",Quick Bites,4.1/5,300
+Spicy Tandoor,Banashankari,North Indian,Quick Bites,NEW,150
+LSD Cafe,Banashankari,"Chinese, Continental, Italian, North Indian",Delivery,2.9/5,700
+Rolls On Wheels,Banashankari,"Fast Food, Rolls, Momos",Quick Bites,3.6/5,300
+Om Sri Vinayaka Chats,Banashankari,"Street Food, Fast Food","Takeaway, Delivery",NEW,500
+Sri Guru Kottureshwara Davangere Benne Dosa,Basavanagudi,South Indian,Quick Bites,4.1/5,150
+Devanna Dum Biriyani Centre,Banashankari,"Biryani, South Indian",Quick Bites,3.6/5,300
+Kolbeh,Banashankari,Fast Food,Quick Bites,3.7/5,500
+Upahar Sagar,Banashankari,"South Indian, Chinese, North Indian",Quick Bites,3.8/5,350
+Kadalu Sea Food Restaurant,Vijay Nagar,"Seafood, North Indian, Chinese, Andhra, Biryani, Kebab",Fine Dining,3.8/5,500
+Frozen Bottle,Banashankari,"Beverages, Desserts, Ice Cream",Beverage Shop,4.2/5,400
+Parimala Sweets,Banashankari,"Mithai, Street Food",Sweet Shop,3.5/5,200
+Vaishali Deluxe,Banashankari,"North Indian, Chinese",Casual Dining,3.8/5,700
+Chill Out,Banashankari,"South Indian, Chinese",Quick Bites,,100
+The Big O Bakes,Banashankari,"Bakery, Desserts",Bakery,4.0/5,300
+Meghana Foods,Jayanagar,"Biryani, North Indian, Chinese",Casual Dining,4.4/5,600
+Krishna Sagar,Banashankari,North Indian,Quick Bites,3.5/5,200
+Dessert Rose,Banashankari,Desserts,Dessert Parlor,3.5/5,500
+Chickpet Donne Biryani House,Banashankari,Biryani,Quick Bites,3.7/5,250
+Me And My Cake,Banashankari,"Bakery, Desserts",Delivery,,500
+Sunsadm,Banashankari,South Indian,"Takeaway, Delivery",,400
+Annapooraneshwari Mess,Banashankari,South Indian,Mess,,200
+Thanco's Natural Ice Creams,Banashankari,Ice Cream,Dessert Parlor,3.2/5,300
+Nandhini Deluxe,Banashankari,North Indian,Casual Dining,2.6/5,600
+Vi Ra's Bar and Restaurant,Banashankari,"South Indian, North Indian, Chinese",Bar,3.3/5,800
+Kaggis,Banashankari,"Fast Food, Bakery",Quick Bites,3.8/5,250
+Ayda Persian Kitchen,Banashankari,"North Indian, Iranian",Casual Dining,3.7/5,950
+Chatar Patar,Banashankari,"Fast Food, Street Food",Quick Bites,3.7/5,300
+Polar Bear,Basavanagudi,"Ice Cream, Desserts, Beverages, Sandwich",Dessert Parlor,3.8/5,400
+Kidambi's Kitchen,Banashankari,South Indian,Quick Bites,3.5/5,300
+Mane Thindi,Banashankari,South Indian,Quick Bites,3.7/5,200
+Kotian Karavali Restaurant,Banashankari,"South Indian, Biryani",Quick Bites,3.5/5,300
+Floured-Baked With Love,Banashankari,Bakery,"Takeaway, Delivery",3.8 /5,400
+CAFE NOVA,Banashankari,"Cafe, Bakery",Cafe,3.2/5,600
+Cakes & Slices,Banashankari,"Bakery, Desserts",Bakery,3.5/5,300
+Spice 9,Banashankari,"Biryani, North Indian, Chinese, Fast Food",Quick Bites,3.4/5,300
+Coffee Shopee,Banashankari,Beverages,"Takeaway, Delivery",,250
+Naveen Kabab & Biriyani Mane,Banashankari,Biryani,Quick Bites,3.2/5,300
+Katriguppe Donne Biryani,Banashankari,North Indian,Quick Bites,3.2/5,300
+Hari Super Sandwich,Banashankari,"Sandwich, Pizza, Beverages","Takeaway, Delivery",NEW,200
+Atithi Point Ande Ka Funda,Banashankari,North Indian,Quick Bites,3.1/5,150
+Just Bake,Banashankari,"Bakery, Desserts",Bakery,3.4/5,400
+Dharwad Line Bazaar Mishra Pedha,Banashankari,Mithai,Dessert Parlor,,150
+Cake Bite,Banashankari,Bakery,Bakery,,300
+Aarush's Food Plaza,Banashankari,"North Indian, Street Food",Quick Bites,,200
+Wood Stove,Banashankari,South Indian,"Takeaway, Delivery",,150
+Kulfi & More,Banashankari,"Ice Cream, Desserts, Juices",Dessert Parlor,,150
+Kannadigas Karavali,Banashankari,"Mangalorean, South Indian, North Indian",Quick Bites,,250
+K27 - The Pub,Banashankari,"Chinese, North Indian",Bar,3.1/5,"1,000"
+Bengaluru Coffee House,Banashankari,"South Indian, North Indian, Chinese, Street Food",Quick Bites,4.1/5,300
+New Mangalore Lunch Home,Banashankari,"Mangalorean, South Indian, North Indian",Quick Bites,3.3/5,200
+Coffee Bytes,Banashankari,"Fast Food, South Indian",Quick Bites,3.1/5,100
+Parjanya Chat Zone,Banashankari,"Street Food, Fast Food",Quick Bites,3.3/5,200
+Kwality Wall's Swirl's Happiness Station,Banashankari,"Ice Cream, Desserts",Dessert Parlor,2.9/5,200
+Soms Kitchen & Bakes,Banashankari,"South Indian, North Indian, Continental",Delivery,,400
+Banashankari Nati Style,Banashankari,"Biryani, Chinese, South Indian, North Indian",Quick Bites,,350
+Ruchi Maayaka,Banashankari,South Indian,Delivery,3.3/5,100
+Mohitesh Hut Roll,Banashankari,"Rolls, North Indian",Quick Bites,,150
+Sri Basaveshwar Jolada Rotti Oota,Banashankari,South Indian,Quick Bites,,150
+Roll Magic Fast Food,Banashankari,"Biryani, Rolls, Chinese","Takeaway, Delivery",NEW,200
+Foodlieious Multi Cuisine,Banashankari,North Indian,Quick Bites,NEW,100
+Thanishka Nati And Karavali Style,Banashankari,"Biryani, Fast Food",Quick Bites,NEW,400
+Swathi Cool Point,Banashankari,"Beverages, Juices",Beverage Shop,,200
+Kaumudis Juoice,Banashankari,"Beverages, Fast Food, Juices","Beverage Shop, Quick Bites",,150
+Amma - Manae,Banashankari,South Indian,"Takeaway, Delivery",,400
+Sri Sai Tiffannies,Banashankari,"South Indian, Chinese",Quick Bites,,150
+Hotel Andhra Speices,Banashankari,Andhra,Quick Bites,,250
+Sri Murari Family Restaurant,Banashankari,Biryani,Quick Bites,,250
+Aramane Donne Biriyani,Banashankari,"South Indian, Biryani",Quick Bites,,150
+Darkolates,Banashankari,Desserts,Confectionery,,200
+Swaada Healthy Kitchen,Banashankari,"Healthy Food, Juices, Sandwich","Quick Bites, Beverage Shop",,350
+Gawdaru Mane Beriyani,Banashankari,"South Indian, Biryani",Quick Bites,,300
+Melting Melodies,Banashankari,"Pizza, Fast Food","Takeaway, Delivery",NEW,100
+New Indraprasta,Banashankari,"South Indian, Beverages",Quick Bites,NEW,150
+Anna Kuteera,Banashankari,"South Indian, North Indian, Chinese",Casual Dining,4.0/5,450
+Darbar,Banashankari,"North Indian, Chinese",Bar,3.0/5,800
+Vijayalakshmi,Basavanagudi,South Indian,Quick Bites,3.9/5,200
+Sri Udupi Food Hub,Jayanagar,"South Indian, North Indian, Chinese, Beverages",Casual Dining,4.1/5,500
+Udupi Upahar,Banashankari,"South Indian, Chinese, North Indian, Juices",Quick Bites,3.8/5,300
+House Of Kebabs,Basavanagudi,"North Indian, Kebab, Biryani, Chinese",Casual Dining,3.8/5,650
+Roll N Rock,Kumaraswamy Layout,"Chinese, North Indian, Mughlai, Rolls",Quick Bites,3.8/5,400
+BOX8- Desi Meals,Banashankari,"North Indian, Mughlai, Fast Food","Takeaway, Delivery",4.1/5,500
+KFC,Banashankari,"Burger, Fast Food",Quick Bites,3.8/5,450
+Bitez,Banashankari,Fast Food,Quick Bites,NEW,100
+Roll Over,Jayanagar,"Desserts, Ice Cream, Beverages, Fast Food, Sandwich",Dessert Parlor,4.1/5,500
+Imperial Restaurant,Mysore Road,"North Indian, Chinese, Biryani, Beverages",Casual Dining,3.7/5,750
+Lassi Shop,Kumaraswamy Layout,"Beverages, Juices, Ice Cream",Beverage Shop,3.9/5,150
+The Fortuna,Kumaraswamy Layout,"North Indian, Chinese",Quick Bites,3.0/5,250
+Wahab,Jayanagar,"North Indian, Mughlai, Chinese",Quick Bites,3.7/5,350
+Al Diwan Biryanis And More,Basavanagudi,Biryani,"Takeaway, Delivery",3.3/5,300
+New Gowda's Fried Chicken,Banashankari,Biryani,Quick Bites,3.3/5,300
+Canton,Jayanagar,"Chinese, Seafood, Biryani",Casual Dining,3.6/5,800
+Diabetics Dezire Sugarless Sweets and Bakes,Basavanagudi,"Desserts, Mithai","Dessert Parlor, Sweet Shop",3.3/5,300
+The Blue Wagon - Kitchen,Jayanagar,"Cafe, Beverages",Cafe,4.6/5,400
+HOT COFFEE,Basavanagudi,"South Indian, Chinese",Quick Bites,4.1/5,150
+Patio 805,Jayanagar,"Thai, Vietnamese, Asian, Chinese",Casual Dining,4.1/5,"1,200"
+Lassi Corner,Basavanagudi,"Beverages, Ice Cream",Beverage Shop,3.7/5,150
+Sagar Deluxe,Kumaraswamy Layout,"South Indian, North Indian, Chinese, Juices",Quick Bites,3.2/5,300
+Kanti Sweets,Banashankari,"Mithai, Street Food",Sweet Shop,4.0/5,400
+Vegetalia,Banashankari,"Italian, Pizza","Takeaway, Delivery",3.7/5,400
+Aramane Donne Biryani,Banashankari,Biryani,Quick Bites,3.5/5,200
+Ande Ka Funda,Banashankari,"North Indian, Fast Food, Rolls",Quick Bites,3.8/5,250
+Cake Ghar,Basavanagudi,Bakery,Bakery,3.8/5,400
+Energy Addaa,Basavanagudi,"Salad, Healthy Food, Sandwich, Juices, Burger, Desserts, Pizza",Quick Bites,4.2/5,500
+Bhattara Bhojana,Banashankari,South Indian,Quick Bites,3.6/5,150
+Tandoori Knight,Banashankari,"North Indian, Chinese, Biryani, Kebab",Quick Bites,3.0/5,450
+Dev Sagar - Food Street,Basavanagudi,Street Food,Quick Bites,4.1/5,200
+Mitraa Da Pizza,Kumaraswamy Layout,"Fast Food, Pizza",Quick Bites,3.8/5,250
+Paradise Premium,Banashankari,"Biryani, Andhra, Hyderabadi, North Indian",Casual Dining,3.1/5,700
+Grazers,Jayanagar,"Cafe, Burger, Continental, Italian, Desserts",Cafe,3.9/5,650
+Shakes Theory,Jayanagar,"Beverages, Sandwich",Beverage Shop,4.5/5,300
+@Italy,Kumaraswamy Layout,Italian,Casual Dining,4.1/5,700
+Chilli Flakes,Banashankari,"Fast Food, Italian, Beverages",Quick Bites,3.6/5,500
+Calcutta Cafe,Kumaraswamy Layout,"Bengali, Chinese, Sandwich",Quick Bites,3.5/5,350
+Old Mumbai Ice Cream,Banashankari,Ice Cream,Dessert Parlor,3.9/5,150
+Donne Biriyani House,Banashankari,"South Indian, North Indian, Chinese, Biryani",Quick Bites,3.9/5,400
+By 2 Coffee,Basavanagudi,South Indian,Quick Bites,3.9/5,100
+Kedia's Fun Food,Jayanagar,"North Indian, Street Food, Juices",Quick Bites,4.3/5,200
+Davangere Butter Dosa Hotel,Kumaraswamy Layout,South Indian,Quick Bites,3.8/5,150
+Just Shawarma,Kumaraswamy Layout,Arabian,Quick Bites,3.9/5,300
+Mini Punjabi Dhaba,Banashankari,North Indian,Quick Bites,4.2/5,350
+Mulabagilu Dosa,Basavanagudi,South Indian,Quick Bites,3.6/5,100
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,Banashankari,Cafe,Cafe,4.1/5,500
+Gokul Veg,Basavanagudi,"North Indian, Chinese, Beverages",Casual Dining,3.8/5,750
+Olive - Era,Kumaraswamy Layout,"BBQ, Arabian, Rolls, Chinese, North Indian, Juices, Kebab, Desserts",Casual Dining,3.3/5,550
+Udupi Ruchi,Banashankari,"South Indian, North Indian, Chinese, Street Food",Quick Bites,3.9/5,200
+Madhappa Hindu Military Hotel,Banashankari,South Indian,Quick Bites,3.4/5,300
+Gama Gama,Banashankari,South Indian,Quick Bites,3.9/5,200
+The Vintage Cafe,Banashankari,"Cafe, French, North Indian",Cafe,3.0/5,400
+Pizza Hut,Banashankari,"Pizza, Fast Food",Casual Dining,3.8/5,750
+Mangalore Pearl,Jayanagar,"Mangalorean, Seafood, Chinese, Biryani",Casual Dining,3.8/5,650
+Asha Sweets Centre,Basavanagudi,Fast Food,Dessert Parlor,3.6/5,250
+Twiststick House,Basavanagudi,"Continental, Fast Food, Street Food, Momos",Quick Bites,4.1/5,500
+Cool Corner,Basavanagudi,"Street Food, Fast Food",Quick Bites,4.2/5,250
+Pizza Mane,Banashankari,"Pizza, Sandwich, Burger, Fast Food",Quick Bites,3.5/5,150
+Dal Tadkaa,Banashankari,North Indian,Casual Dining,2.5/5,500
+Chutney Chang,Jayanagar,"North Indian, Chinese, BBQ",Casual Dining,4.1/5,"1,500"
+Mystique Palate,Jayanagar,"Chinese, Fast Food",Quick Bites,4.1/5,300
+Thamboola,Banashankari,"North Indian, Chinese, Continental",Casual Dining,3.9/5,800
+Castle Rock,Uttarahalli,"North Indian, Chinese",Casual Dining,3.6/5,700
+Vietnamese Kitchen,Banashankari,Vietnamese,Casual Dining,3.6/5,700
+Smacznego,Banashankari,"Cafe, Mexican, Italian, Momos, Beverages",Cafe,4.2/5,550
+C Corner,Kumaraswamy Layout,"Fast Food, Street Food",Quick Bites,3.2/5,200
+Paratha Merchant,Kumaraswamy Layout,North Indian,Quick Bites,3.1/5,300
+North Rasoe,Kumaraswamy Layout,"North Indian, Chinese, Biryani, Kebab",Casual Dining,3.1/5,500
+Inchara Restaurant,Basavanagudi,"North Indian, Chinese",Quick Bites,,300
+Toscano,Jayanagar,"Italian, Salad",Casual Dining,4.3/5,"1,300"
+Lord Of The Kitchen,Kumaraswamy Layout,"North Indian, Chinese",Quick Bites,3.9/5,350
+Stoned Monkey,Banashankari,"Desserts, Ice Cream",Dessert Parlor,4.3/5,500
+Central Jail Restaurant,Jayanagar,"Andhra, Seafood, North Indian, Chinese",Casual Dining,3.8/5,700
+Bella,Jayanagar,"Mangalorean, Seafood, South Indian",Casual Dining,3.9/5,"1,000"
+Vennela Andhra Meals,Jayanagar,Andhra,Quick Bites,3.0/5,400
+New Prashanth Hotel,Jayanagar,"South Indian, Biryani, Chinese, North Indian",Casual Dining,3.6/5,750
+The Grillo,Jayanagar,"South Indian, Arabian, Chinese, North Indian, Seafood, Mangalorean",Casual Dining,2.8/5,500
+Re Malnad Nati Style Hotel,JP Nagar,South Indian,Casual Dining,3.6/5,400
+Karma Kaapi,Jayanagar,"Beverages, Tea",Beverage Shop,4.4/5,250
+Tiwari's,Jayanagar,"North Indian, Street Food",Quick Bites,3.8/5,200
+Pizza Stop,Basavanagudi,"Pizza, Italian",Quick Bites,3.8/5,600
+Biggies Burger 'n' More,Kumaraswamy Layout,"Cafe, Burger, Beverages",Quick Bites,3.6/5,650
+Srinathji's Cafe,Basavanagudi,"North Indian, Cafe, Chinese, Fast Food","Casual Dining, Cafe",3.8/5,550
+Kollapuri's,Basavanagudi,"South Indian, Mangalorean",Quick Bites,3.9/5,450
+Sugar Stars Co,Basavanagudi,"Bakery, Desserts",Bakery,,300
+Bombay Kulfis,JP Nagar,Ice Cream,Dessert Parlor,,200
+Kadamba Classic,Mysore Road,South Indian,Quick Bites,3.6/5,300
+RS Shiv Sagar,Basavanagudi,"North Indian, Chinese, South Indian, Fast Food, Juices",Casual Dining,3.7/5,450
+Kholi Mane,Basavanagudi,"Andhra, South Indian, Biryani, North Indian",Quick Bites,3.6/5,450
+Harshi Super Sandwich,Basavanagudi,"Fast Food, Street Food",Quick Bites,3.8/5,150
+Cake Yard,Basavanagudi,Desserts,Dessert Parlor,3.4/5,250
+Rosewood International Hotel - Bar & Restaurant,Mysore Road,"North Indian, South Indian, Andhra, Chinese",Casual Dining,3.6/5,800
+Sri Udupi Veg,Jayanagar,South Indian,Quick Bites,3.3/5,250
+Cake Art,Basavanagudi,Bakery,"Bakery, Quick Bites",3.5/5,400
+Aahar Cafe,Basavanagudi,South Indian,Quick Bites,,100
+Akash Gowdru Biryani Center,Uttarahalli,"North Indian, Chinese",Quick Bites,,300
+New Sri Udupi Restaurant,Jayanagar,"North Indian, South Indian, Chinese, Beverages, Fast Food",Quick Bites,,200
+Potato House,Uttarahalli,Street Food,Quick Bites,3.4/5,200
+Hotel Biriyani Counter,Vijay Nagar,"North Indian, Chinese, Biryani",Quick Bites,,350
+Matru Sagar,Mysore Road,"South Indian, North Indian",Quick Bites,3.7/5,300
+Ugadi,Jayanagar,"North Indian, Chinese, Biryani, Andhra, Mangalorean",Casual Dining,2.9/5,700
+Sri Krishna Sweets,Basavanagudi,"Mithai, Desserts",Sweet Shop,3.7/5,250
+In Time Cane Juice,Kumaraswamy Layout,"Juices, Beverages",Beverage Shop,3.5/5,100
+Subway,Banashankari,"Salad, Fast Food",Quick Bites,3.7/5,600
+Daal Roti,Kumaraswamy Layout,"North Indian, Chinese",Quick Bites,2.9/5,250
+The Lassi Park,Jayanagar,"Juices, Desserts",Quick Bites,4.1/5,200
+Cafe Coffee Day,Jayanagar,"Cafe, Fast Food",Cafe,3.2/5,900
+A2B - Adyar Ananda Bhavan,Mysore Road,"South Indian, North Indian, Chinese, Street Food",Casual Dining,3.8/5,400
+Srikrishna Bhavan,Banashankari,"South Indian, North Indian, Chinese",Quick Bites,3.8/5,300
+Timepass Dinner,Basavanagudi,North Indian,Casual Dining,3.8/5,600
+Green Gardenia,Banashankari,"North Indian, Chinese",Casual Dining,3.8/5,700
+J Spice,Banashankari,"North Indian, Chinese",Casual Dining,3.8/5,750
+Karavali Family Restaurant,Jayanagar,"Seafood, Biryani, South Indian, North Indian, Chinese",Casual Dining,3.5/5,500
+Karavali Lunch Home,Kumaraswamy Layout,"South Indian, Mangalorean",Quick Bites,3.7/5,350
+Hatti Kaapi,Jayanagar,"South Indian, Beverages",Quick Bites,4.0/5,200
+Kolkata Kathi Roll's,Banashankari,"Fast Food, Rolls",Quick Bites,3.6/5,250
+Upahara Darshini,Basavanagudi,"North Indian, Chinese, South Indian, Fast Food",Casual Dining,3.9/5,600
+The Chaat Shop,Basavanagudi,Fast Food,Quick Bites,2.5/5,200
+Anda Ka Funda,Jayanagar,"North Indian, Chinese, Rolls",Quick Bites,3.4/5,250
+Shri Vinayaka Ice N Juice,Basavanagudi,"Beverages, Fast Food",Quick Bites,3.2/5,150
+My Tea House,Banashankari,"Italian, Fast Food, Cafe, European","Quick Bites, Cafe",3.6/5,600
+Ibaco,Jayanagar,Desserts,Dessert Parlor,3.9/5,300
+Jalaram Sweets,Jayanagar,"Desserts, Mithai",Sweet Shop,3.8/5,250
+Samskruti - Sanman Gardenia,Jayanagar,"North Indian, Chinese, South Indian",Casual Dining,4.1/5,550
+Bendakaluru Bytes,Vijay Nagar,Fast Food,Quick Bites,3.2/5,300
+Cocoa Bakes,Banashankari,"Bakery, Desserts",Bakery,3.6/5,350
+Chumma Delicious,Banashankari,"South Indian, Fast Food",Quick Bites,3.7/5,200
+New Prashanth Hotel,Banashankari,"Biryani, North Indian, Seafood, Andhra",Casual Dining,3.9/5,650
+SSV Upahar,Jayanagar,"South Indian, Chinese",Quick Bites,NEW,300
+Dwaraka Grand,Kumaraswamy Layout,"South Indian, Chinese, Street Food, Juices",Casual Dining,3.9/5,500
+Gufha - The President Hotel,Jayanagar,"North Indian, Afghani, Mughlai",Casual Dining,4.1/5,"1,200"
+Cafe Vivacity,Banashankari,Cafe,Cafe,3.8/5,650
+Tanna's Kitchen,Kumaraswamy Layout,"Italian, Chinese, Street Food",Quick Bites,3.1/5,250
+Shree Mandarathi Grand,Uttarahalli,"South Indian, North Indian",Casual Dining,3.7/5,400
+Mojo Pizza - 2X Toppings,Banashankari,Pizza,Delivery,4.2/5,600
+Iceberg Icecreams,Basavanagudi,"Desserts, Ice Cream",Dessert Parlor,4.0/5,250
+South Kitchen,Basavanagudi,South Indian,Quick Bites,4.3/5,100
+Chung Wah,Jayanagar,"Chinese, Thai, Momos",Casual Dining,3.7/5,850
+Shanthi Sagar,Uttarahalli,"South Indian, North Indian, Chinese",Casual Dining,3.1/5,400
+Millet Mama,Basavanagudi,"South Indian, Healthy Food",Quick Bites,3.9/5,200
+Bangarpet Chat Express,Basavanagudi,"Street Food, Fast Food",Quick Bites,3.3/5,100
+South Cool Point,Basavanagudi,Beverages,Dessert Parlor,,100
+Prems Graama Bhojanam,Jayanagar,South Indian,Casual Dining,4.3/5,400
+Java City,Jayanagar,"Cafe, American, Pizza",Cafe,2.6/5,450
+Kamat Bugle Rock,Basavanagudi,"South Indian, Fast Food",Quick Bites,3.9/5,300
+Woodee Pizza,Banashankari,"Cafe, Pizza, Fast Food, Beverages",Cafe,3.7/5,500
+Puliyogare Point,Basavanagudi,South Indian,Quick Bites,4.2/5,100
+Bangalore Agarwal Bhavan,Jayanagar,"Street Food, North Indian, South Indian",Quick Bites,3.9/5,400
+Rustic Stove,Jayanagar,"North Indian, South Indian, Biryani, Beverages",Casual Dining,3.8/5,900
+Udupi Ruchi Grand,Banashankari,"South Indian, North Indian, Chinese, Street Food",Quick Bites,4.2/5,200
+De Thaali,Jayanagar,"North Indian, Chinese, Rolls",Casual Dining,3.9/5,550
+Spice Elephant,Banashankari,"Chinese, North Indian, Thai",Casual Dining,4.1/5,800
+Just Thindi,Basavanagudi,South Indian,Quick Bites,3.6/5,200
+Matru Sagar,Banashankari,"South Indian, North Indian, Chinese",Quick Bites,3.6/5,250
+Vasanth Vihar - Since 1965,Banashankari,"South Indian, Street Food",Quick Bites,3.6/5,150
+Sea Spice by 7 Star,Banashankari,"Seafood, Biryani, Beverages, South Indian, North Indian, Kebab",Casual Dining,4.0/5,"1,200"
+Desi Dawat,Kumaraswamy Layout,"North Indian, Fast Food",Quick Bites,3.7/5,400
+Cafe Aira,Basavanagudi,"Cafe, Continental, Beverages, Desserts",Cafe,4.1/5,500
+Donne Biriyani combos,Kumaraswamy Layout,Biryani,Casual Dining,,400
+Penthouse Cafe,Banashankari,"Cafe, Italian, Continental",Cafe,4.0/5,700
+Mast Punjabi,Kumaraswamy Layout,"North Indian, Chinese, Rolls, Biryani, Kebab",Quick Bites,2.6/5,400
+South Grand,Uttarahalli,"South Indian, North Indian, Chinese, Beverages",Casual Dining,3.4/5,400
+Catch-up-ino,Banashankari,"Cafe, Fast Food, Continental, Chinese, Momos",Cafe,3.9/5,800
+The Pizzeria,Banashankari,"Pizza, Italian, Salad",Casual Dining,2.8/5,800
+Cafe Zone,Kumaraswamy Layout,"Fast Food, Chinese, Rolls",Quick Bites,3.9/5,300
+Ruchis Point,Banashankari,"Fast Food, Chinese",Quick Bites,3.8/5,200
+Firangi Bake,Rajarajeshwari Nagar,"Mexican, Italian",Delivery,4.0/5,600
+The Royal Corner - Pai Viceroy,Jayanagar,"North Indian, Chinese",Casual Dining,4.2/5,900
+Hara Fine Dine,Banashankari,"North Indian, Chinese",Casual Dining,4.0/5,800
+Chocoberry,Jayanagar,"Ice Cream, Desserts, Beverages",Dessert Parlor,3.5/5,400
+Dakshin Grand,Banashankari,"South Indian, North Indian, Chinese, Street Food",Quick Bites,3.0/5,300
+Sandwichwallas,Jayanagar,Fast Food,Quick Bites,3.7/5,200
+Chai Mane,Basavanagudi,"Juices, Fast Food",Quick Bites,3.6/5,150
+SLV Upachar,Kumaraswamy Layout,"South Indian, Chinese, Street Food",Quick Bites,3.1/5,250
+Waffle-A-Go Go,Banashankari,"Fast Food, Desserts, Ice Cream",Dessert Parlor,3.9/5,400
+Cross Road Cafe,Jayanagar,"Cafe, Fast Food, Chinese",Cafe,3.9/5,300
+Anand Donne Biriyani,Jayanagar,Biryani,Quick Bites,3.6/5,200
+Seven Star,Banashankari,"North Indian, Chinese",Quick Bites,3.4/5,250
+Stop 'N' Joy,Banashankari,Fast Food,Quick Bites,3.8/5,150
+Sri Yaksha Shiv Sagar,Banashankari,"North Indian, Chinese",Casual Dining,3.6/5,600
+Fudge,Basavanagudi,"Desserts, Momos",Dessert Parlor,3.8/5,200
+Just Bunny,Jayanagar,Fast Food,Quick Bites,3.5/5,200
+Bakers Town,Kumaraswamy Layout,"Cafe, Continental, Fast Food",Cafe,3.8/5,650
+Shree Mahalakshmi Sweets,Banashankari,"Mithai, Street Food",Sweet Shop,3.2/5,100
+Kaapi Kendra,Jayanagar,South Indian,Quick Bites,3.7/5,100
+Ivy,Kumaraswamy Layout,"North Indian, Chinese, Fast Food",Casual Dining,3.8/5,600
+The Airos,Jayanagar,"Cafe, Italian, Pizza",Cafe,4.1/5,650
+Chai Kraft,Jayanagar,"Beverages, Tea",Beverage Shop,4.1/5,100
+Kirthi's Biryani,Banashankari,"Chinese, Cafe, Italian",Cafe,3.8/5,700
+South Point Pub,Basavanagudi,"North Indian, Seafood, Chinese",Bar,3.4/5,800
+The Trundle,Jayanagar,"Chinese, Thai, Continental, North Indian",Casual Dining,3.7/5,700
+The Krishna Grand Xpress,Jayanagar,"South Indian, Fast Food",Quick Bites,4.0/5,350
+Sri Krishna Darshini,Basavanagudi,"South Indian, North Indian, Chinese",Quick Bites,3.1/5,200
+Shringar Sweets & Snacks,Basavanagudi,"Mithai, South Indian, Street Food, Fast Food","Sweet Shop, Quick Bites",3.5/5,200
+Udupi Grand,Basavanagudi,"South Indian, North Indian, Chinese",Quick Bites,3.8/5,300
+Ganesh Grand,Basavanagudi,"South Indian, North Indian, Desserts",Quick Bites,3.7/5,300
+Shreyas Upahar & Burger Point,Basavanagudi,"South Indian, Burger",Quick Bites,3.0/5,200
+Coffee Tindi,Banashankari,"Cafe, South Indian","Cafe, Quick Bites",3.8/5,200
+Little Cafe,Basavanagudi,"Cafe, Beverages",Cafe,3.7/5,600
+Mumbai Badam Milk & Lassi Center,Basavanagudi,"Beverages, Desserts",Kiosk,3.6/5,100
+Sri Krishna Sagar,Banashankari,"North Indian, Chinese",Casual Dining,3.2/5,400
+Mylari Biryani Family Restaurant,Banashankari,"Biryani, Fast Food",Quick Bites,3.7/5,400
+1980s Games Cafe,Basavanagudi,"Cafe, Fast Food",Cafe,3.4/5,400
+Kadala Tarangaa,Banashankari,"Mangalorean, Seafood, North Indian",Casual Dining,3.6/5,600
+Namma Biryani,Banashankari,"Biryani, Chinese, North Indian",Quick Bites,3.6/5,250
+Nandhanu's Rasoi,Kumaraswamy Layout,"Chinese, North Indian",Quick Bites,3.0/5,400
+Hotel Pork Paradise,Mysore Road,South Indian,Quick Bites,3.7/5,300
+As On Fire,South Bangalore,"Pizza, Fast Food, BBQ",Food Truck,3.5/5,400
+J K Fish Land,Jayanagar,"Seafood, Mangalorean",Quick Bites,3.6/5,300
+Curry Leaves,Basavanagudi,"Andhra, North Indian, Chinese",Casual Dining,4.1/5,800
+Lassi Shop,Banashankari,"Beverages, Ice Cream, Fast Food",Beverage Shop,3.5/5,300
+Magic Meals,Jayanagar,"Fast Food, Desserts, Beverages","Quick Bites, Dessert Parlor",3.7/5,400
+Desi Cream Junction,Jayanagar,"Chinese, North Indian, Pizza, Italian",Casual Dining,3.7/5,650
+Drunken Monkey,Kumaraswamy Layout,"Beverages, Fast Food","Beverage Shop, Quick Bites",3.8/5,400
+Ruchi's Corner,Banashankari,Fast Food,Quick Bites,2.7/5,200
+Tandoori Bytes,Kumaraswamy Layout,North Indian,Casual Dining,3.6/5,700
+Bangalore Donne Biriyani,Kumaraswamy Layout,"South Indian, Biryani",Quick Bites,3.2/5,300
+SGS Non Veg - Gundu Pulav,Banashankari,"Biryani, Fast Food",Quick Bites,3.8/5,400
+Keventers,Banashankari,"Desserts, Beverages, Ice Cream","Beverage Shop, Dessert Parlor",3.7/5,400
+Sree Sagar,Banashankari,South Indian,Quick Bites,,200
+Navi Food Point,Basavanagudi,Fast Food,Quick Bites,3.6/5,200
+Shawarma Inc,Banashankari,"Rolls, Lebanese",Takeaway,3.1/5,250
+The Cafe Nuts and Bolts,Kumaraswamy Layout,"Cafe, Fast Food, Chinese",Cafe,3.0/5,500
+AM WOW,Jayanagar,Beverages,Beverage Shop,3.4/5,100
+Lalbagh Grand,Basavanagudi,"South Indian, North Indian, Chinese",Quick Bites,3.0/5,250
+Funjabi Curries,Banashankari,North Indian,Quick Bites,2.9/5,500
+Eat Repeat,Basavanagudi,South Indian,Quick Bites,3.9/5,150
+Salut,Jayanagar,"Continental, Finger Food, Seafood, Pizza","Pub, Casual Dining",4.1/5,"1,200"
+Nammura Donne Biriyani,Basavanagudi,"Biryani, Fast Food",Quick Bites,3.5/5,400
+Lassi Stop,Banashankari,"Beverages, Fast Food, Juices","Beverage Shop, Quick Bites",3.4/5,150
+Dakshin Kitchen,Basavanagudi,South Indian,Quick Bites,3.6/5,100
+Sri Sai Cafe,Basavanagudi,South Indian,Quick Bites,3.5/5,200
+Sri Sai 99 Variety Dosa,Banashankari,South Indian,Quick Bites,3.8/5,300
+Utsav Restaurant,Banashankari,"North Indian, Chinese",Quick Bites,3.8/5,300
+Crunch and Munch,Uttarahalli,"Chinese, Street Food, Ice Cream",Quick Bites,3.7/5,300
+Food Geek,Basavanagudi,"Sandwich, Fast Food, Rolls",Quick Bites,3.8/5,350
+Sri Krishna Aramane,Kumaraswamy Layout,"South Indian, North Indian, Chinese, Fast Food",Quick Bites,3.7/5,200
+Great Indian Rolls,Basavanagudi,Rolls,Quick Bites,3.3/5,100
+Chats Point,Basavanagudi,"Fast Food, Street Food",Quick Bites,3.4/5,150
+Food Point,Kumaraswamy Layout,"North Indian, Chinese",Quick Bites,3.5/5,300
+Swarga Ruchi,Basavanagudi,South Indian,Quick Bites,3.3/5,200
+Kolkata King,Basavanagudi,"Fast Food, Rolls",Quick Bites,3.4/5,300
+Sandwich Mama's And Frozen Monster,Jayanagar,"Ice Cream, Beverages, Fast Food",Quick Bites,3.8/5,250
+New Rajadhani Spicy,Kumaraswamy Layout,North Indian,Casual Dining,3.7/5,700
+Big Mishra Pedha,Jayanagar,Mithai,Sweet Shop,2.9/5,250
+VEGeatz,Banashankari,"South Indian, North Indian",Quick Bites,3.4/5,200
+Foodizo,Banashankari,"Desserts, Fast Food, Continental",Quick Bites,3.6/5,300
+Food Springs,Jayanagar,"South Indian, Chinese",Quick Bites,4.0/5,400
+Chung's Chinese Corner,Jayanagar,Chinese,Casual Dining,3.9/5,700
+Eurasia Pasta and Barbeque by Little Italy,Jayanagar,"Italian, Fast Food, Salad, BBQ","Casual Dining, Bar",4.1/5,"1,200"
+Goli Vada Pav No. 1,Basavanagudi,Street Food,Quick Bites,3.7/5,200
+Ragoo's,Jayanagar,"Italian, Pizza, North Indian, Salad",Casual Dining,3.9/5,800
+Pure & Natural,Jayanagar,"Fast Food, Continental, Beverages, Salad, Healthy Food",Casual Dining,3.9/5,500
+Maiyas,Jayanagar,"North Indian, South Indian, Fast Food, Juices",Quick Bites,4.0/5,200
+Sip n Dine,Vijay Nagar,"North Indian, Chinese, South Indian",Casual Dining,3.6/5,800
+Cafe Mondo,Basavanagudi,"Cafe, Italian, Beverages",Cafe,3.7/5,600
+Jalpaan,Jayanagar,"North Indian, Continental",Casual Dining,4.0/5,900
+Kataria's Pakwan,Kumaraswamy Layout,North Indian,Quick Bites,3.2/5,400
+Juicy Momos,Banashankari,"Tibetan, Momos",Quick Bites,3.5/5,250
+Amande Patisserie,Basavanagudi,"Bakery, French, Desserts",Bakery,4.0/5,300
+Anand Sweets and Savouries,Jayanagar,"Mithai, Street Food",Sweet Shop,3.9/5,400
+Chicken Hunt,Banashankari,"South Indian, North Indian, Chinese, Biryani",Quick Bites,3.5/5,350
+Swadesh Tadka,Banashankari,"North Indian, Chinese, Beverages",Casual Dining,3.5/5,600
+Cane-O-La,Basavanagudi,Juices,Quick Bites,3.8/5,100
+New Biryani Mane,Uttarahalli,"North Indian, Chinese, Biryani, South Indian",Casual Dining,3.7/5,450
+Upahara Darshini,Jayanagar,"South Indian, North Indian, Chinese",Quick Bites,3.8/5,400
+Karnataka Bhel House,Basavanagudi,Street Food,Quick Bites,4.1/5,100
+Sreeraj Lassi Bar,Jayanagar,Beverages,"Dessert Parlor, Beverage Shop",4.1/5,150
+Juice Junction Food Court,Basavanagudi,"Juices, South Indian, Chinese, Fast Food",Quick Bites,3.7/5,200
+Bunt's Biriyani Palace,Banashankari,"North Indian, South Indian, Chinese, Biryani, Seafood",Quick Bites,3.0/5,400
+Chai Point,Jayanagar,"Tea, Beverages, Fast Food","Beverage Shop, Quick Bites",3.2/5,250
+Janahaar,Banashankari,South Indian,Quick Bites,3.8/5,100
+Redberrys,Basavanagudi,"Cafe, Italian",Cafe,4.0/5,600
+Utsav,Banashankari,"North Indian, Street Food",Quick Bites,3.7/5,200
+Meat And Eat,Banashankari,"Fast Food, Burger",Quick Bites,3.1/5,500
+Snacks Bite,Kumaraswamy Layout,"Fast Food, Momos",Quick Bites,3.0/5,400
+The Spice Saga,Kumaraswamy Layout,"Biryani, North Indian, Chinese, Seafood",Casual Dining,3.7/5,750
+Dakshin Cafe,Kumaraswamy Layout,South Indian,Quick Bites,3.7/5,100
+Mr. Parathewala,Jayanagar,North Indian,"Takeaway, Delivery",,300
+Kaulige Millet Corner,Basavanagudi,"Healthy Food, South Indian",Quick Bites,3.3/5,150
+Ifruit Ice Cream,Kumaraswamy Layout,"Desserts, Ice Cream",Dessert Parlor,3.3/5,150
+Havmor,Basavanagudi,"Ice Cream, Desserts",Dessert Parlor,3.8/5,200
+Grand Food,Banashankari,"South Indian, Bakery, Chinese","Quick Bites, Bakery",3.4/5,250
+Dining Hut,Kumaraswamy Layout,"North Indian, Chinese, South Indian",Quick Bites,3.5/5,400
+7 Hills Garden Restaurant,Banashankari,"North Indian, Mughlai, Chinese",Quick Bites,,400
+Desi Swaad,Kumaraswamy Layout,North Indian,Quick Bites,3.5/5,400
+Yummy Momos,Kumaraswamy Layout,"Momos, Tibetan, Chinese",Quick Bites,3.2/5,200
+Masale Daan,Banashankari,North Indian,Delivery,3.1/5,350
+Sri Manjunatha Tandoori Corner,Uttarahalli,Mughlai,Quick Bites,,300
+Grow Fit,JP Nagar,"Healthy Food, North Indian, Thai","Takeaway, Delivery",3.6/5,500
+Cutcakes,Kumaraswamy Layout,Bakery,"Takeaway, Delivery",,300
+Sandwich Hub,Jayanagar,"Fast Food, Sandwich",Quick Bites,3.4/5,300
+Healthy Bakes 'n' Brew,Jayanagar,Bakery,Bakery,,150
+Udupi Sri Krishna Cafe,Jayanagar,"North Indian, South Indian",Casual Dining,3.9/5,600
+Starlite Bakery & Fastfood,Jayanagar,"North Indian, Chinese, Rolls, Bakery, Arabian, Charcoal Chicken, Desserts",Quick Bites,3.7/5,300
+Veganbreak24x7,City Market,"South Indian, Chinese, Continental, Biryani","Takeaway, Delivery",2.8/5,199
+Aadhya Hotel,Basavanagudi,"South Indian, North Indian, Chinese, Biryani","Casual Dining, Bar",3.3/5,800
+Dodda Mane Baaduta,Banashankari,"North Indian, South Indian, Chinese, Biryani",Quick Bites,3.5/5,250
+Swadd Kitchen,Basavanagudi,"North Indian, Fast Food",Casual Dining,3.4/5,500
+Nandini Milk Parlour and Restaurant,Mysore Road,"Sandwich, Rolls, South Indian, Ice Cream","Dessert Parlor, Quick Bites",,250
+Happy Chopsticks,Basavanagudi,"Chinese, Fast Food",Quick Bites,3.6/5,300
+Sai Super Sandwich,Banashankari,"Sandwich, Beverages",Quick Bites,NEW,200
+Right Pizza,Basavanagudi,Pizza,Quick Bites,NEW,300
+Udupi Upachar,Banashankari,"South Indian, North Indian",Quick Bites,3.3/5,500
+Davanagere Benne Dose Hut,Banashankari,South Indian,Quick Bites,3.4/5,100
+The Sip Shop,Basavanagudi,"Pizza, Beverages, Ice Cream",Quick Bites,NEW,200
+Jalsa,Banashankari,"North Indian, Mughlai, Chinese",Casual Dining,4.1/5,800
+Subz,Jayanagar,"North Indian, South Indian",Casual Dining,4.2/5,"1,000"
+Rajastani Rasoi,Basavanagudi,North Indian,Quick Bites,,100
+Sri Banashankari Upahara,Kumaraswamy Layout,"North Indian, South Indian",Quick Bites,NEW,150
+Cafe Shuffle,Banashankari,"Cafe, Italian, Continental",Cafe,4.2/5,600
+Mint and Mustard,Basavanagudi,"North Indian, Chinese",Casual Dining,4.0/5,750
+Chinese Square,Basavanagudi,Chinese,Quick Bites,3.9/5,200
+Hyderabad Express,Banashankari,"Hyderabadi, Biryani, South Indian, Andhra, Beverages",Quick Bites,NEW,300
+Punjabi Raswada,Jayanagar,North Indian,Casual Dining,3.5/5,800
+Vinny's,Banashankari,"Pizza, Italian, Continental, Desserts",Casual Dining,4.2/5,800
+Chetty's Corner,Uttarahalli,"Fast Food, Burger, Pizza",Quick Bites,3.4/5,200
+Kapoor's Cafe,Jayanagar,North Indian,Casual Dining,4.2/5,800
+Donne Biryani & Kabab Corner,Kumaraswamy Layout,"Chinese, Biryani",Quick Bites,3.3/5,200
+Sukh Sagar,Jayanagar,"South Indian, North Indian, Chinese, Street Food",Casual Dining,3.8/5,450
+S M V Snacks Corner,Basavanagudi,Fast Food,Quick Bites,3.7/5,200
+Andhra Ruchulu,Jayanagar,"Andhra, Biryani, North Indian, Chinese","Casual Dining, Bar",4.1/5,"1,000"
+The Samosa Co,Jayanagar,"Fast Food, Mithai",Quick Bites,,200
+Steaming Mugs,Basavanagudi,Cafe,Cafe,3.9/5,700
+San Churro Cafe,Banashankari,"Cafe, Mexican, Italian","Cafe, Casual Dining",3.8/5,800
+Rajathadri Food Fort,Jayanagar,"South Indian, North Indian, Chinese, Street Food",Casual Dining,4.0/5,600
+Brew Meister,Jayanagar,"North Indian, Continental, Finger Food, American, Asian","Microbrewery, Casual Dining",4.1/5,"1,500"
+Rasoi,Banashankari,"North Indian, Chinese",Quick Bites,3.3/5,300
+Mr. Singh Da Dhaba,Kumaraswamy Layout,"North Indian, Chinese",Quick Bites,3.6/5,300
+Kababs N Biryani,Banashankari,South Indian,Quick Bites,3.4/5,200
+Ayodhya Upachar,Banashankari,"South Indian, North Indian, Chinese, Street Food",Quick Bites,4.3/5,200
+Biriyani Mane,Jayanagar,"North Indian, Biryani",Quick Bites,3.8/5,400
+Cafe Ajfan,Jayanagar,"Cafe, Continental, Beverages",Cafe,4.2/5,700
+Brundhavana Food Point,Kumaraswamy Layout,"South Indian, North Indian, Chinese, Street Food, Beverages",Quick Bites,4.0/5,300
+SLV Corner Restaurant,Basavanagudi,"South Indian, Chinese, North Indian, Street Food, Rolls, Juices",Casual Dining,4.1/5,550
+Biryani Royals Garden,Kumaraswamy Layout,"North Indian, Biryani, Mughlai",Quick Bites,NEW,500
+Hotel New Karavali,Banashankari,"Mangalorean, South Indian, North Indian",Quick Bites,3.8/5,300
+The Krishna Grand,Banashankari,"North Indian, South Indian, Chinese, Fast Food, Juices",Casual Dining,3.9/5,750
+360 Atoms Restaurant And Cafe,Banashankari,"Cafe, Chinese, Continental, Italian",Cafe,3.1/5,400
+Roti Ghar,Basavanagudi,"North Indian, Chinese, South Indian",Casual Dining,3.9/5,500
+The Coffee Shack,Banashankari,"Cafe, Chinese, Continental, Italian",Cafe,4.2/5,500
+Multi Snacky Hub,Basavanagudi,Fast Food,Quick Bites,NEW,200
+Kettle & Kegs,Banashankari,"Tea, Beverages",Delivery,3.2/5,200
+Baisakhi,Basavanagudi,North Indian,Casual Dining,3.8/5,500
+Corner House Ice Cream,Banashankari,"Ice Cream, Desserts",Dessert Parlor,4.3/5,400
+Poonam Sweets,Banashankari,Mithai,Sweet Shop,4.4/5,150
+XO Belgian Waffle,Banashankari,"Desserts, Beverages",Dessert Parlor,3.7/5,400
+Old Mumbai Ice Cream,Banashankari,Ice Cream,Dessert Parlor,3.9/5,150
+Cake of the Day,Banashankari,Bakery,"Bakery, Dessert Parlor",3.7/5,150
+Amma's Pastries,Banashankari,Bakery,Dessert Parlor,3.8/5,400
+Kanti Sweets,Banashankari,"Mithai, Street Food",Sweet Shop,4.0/5,400
+Sugar Rush,Banashankari,"Bakery, Desserts",Bakery,3.8/5,300
